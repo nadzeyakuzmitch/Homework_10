@@ -1,5 +1,7 @@
 # Nadzeya Kuzmitch, Event Manager Company: Software QA Analyst/Developer Onboarding Assignment
 
+[Dockerhub image link](https://hub.docker.com/r/nadzeyakuzmitch/homework-10)
+
 In this assignment we've learned on how to use GitHub for teamworks and customer support. 
 We've learned how to create issues which allows to easily populate them with the problems and add decriptions.
 We've learned how to contribute to the project by resolving issues with creation of pull requests, allowing to perform code reviews of the change and merge to the main branch.
