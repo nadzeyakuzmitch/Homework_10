@@ -93,3 +93,14 @@ def test_username_length_validator():
         UserBase(username=username, email="test@example.com")
     except ValidationError as e:
         pytest.fail(f"Validation failed for valid username length: {username}. Exception: {e}")
+
+def test_password_length_validator():
+    password = "!Password1"
+    try:
+        UserCreate(username="username", email="test@example.com", password=password)
+    except ValidationError as e:
+        pytest.fail(f"Validation failed for valid password length: {password}. Exception: {e}")
+
+    invalid_password = "Password With Space"
+    with pytest.raises(ValidationError):
+        UserCreate(username="username", email="test@example.com", password=invalid_password)
