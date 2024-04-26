@@ -1,4 +1,4 @@
-# Event Manager Company: Software QA Analyst/Developer Onboarding Assignment
+# Nadzeya Kuzmitch, Event Manager Company: Software QA Analyst/Developer Onboarding Assignment
 
 In this assignment we've learned on how to use GitHub for teamworks and customer support. 
 We've learned how to create issues which allows to easily populate them with the problems and add decriptions.
