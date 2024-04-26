@@ -1,5 +1,8 @@
 # Nadzeya Kuzmitch, Event Manager Company: Software QA Analyst/Developer Onboarding Assignment
 
+[![Actions Status](https://github.com/nadzeyakuzmitch/Homework_10/workflows/Build%20and%20push%20Docker%20image/badge.svg)](https://github.com/nadzeyakuzmitch/Homework_10/actions)
+
+
 [Dockerhub image link](https://hub.docker.com/r/nadzeyakuzmitch/homework-10)
 
 In this assignment we've learned on how to use GitHub for teamworks and customer support. 
